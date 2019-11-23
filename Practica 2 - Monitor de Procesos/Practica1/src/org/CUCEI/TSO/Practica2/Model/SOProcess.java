@@ -1,4 +1,4 @@
-package org.CUCEI.TSO.Practica1.Model;
+package org.CUCEI.TSO.Practica2.Model;
 
 public class SOProcess implements Runnable {
 

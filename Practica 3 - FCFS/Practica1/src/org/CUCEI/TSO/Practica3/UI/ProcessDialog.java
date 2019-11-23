@@ -1,4 +1,4 @@
-package org.CUCEI.TSO.Practica1.UI;
+package org.CUCEI.TSO.Practica3.UI;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -9,7 +9,7 @@ import javax.swing.JButton;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
 
-import org.CUCEI.TSO.Practica1.Model.SOProcess;
+import org.CUCEI.TSO.Practica3.Model.SOProcess;
 
 public class ProcessDialog extends JDialog implements ActionListener {
 	List<SOProcess> processList;

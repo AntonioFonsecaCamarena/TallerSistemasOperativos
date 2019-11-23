@@ -1,8 +1,8 @@
-package org.CUCEI.TSO.Practica1.Model;
+package org.CUCEI.TSO.Practica3.Model;
 
 import java.util.List;
 
-import org.CUCEI.TSO.Practica1.UI.MainFrame;
+import org.CUCEI.TSO.Practica3.UI.MainFrame;
 
 public class CPU implements Runnable {
 

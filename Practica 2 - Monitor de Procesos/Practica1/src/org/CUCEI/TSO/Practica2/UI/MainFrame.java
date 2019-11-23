@@ -1,4 +1,4 @@
-package org.CUCEI.TSO.Practica1.UI;
+package org.CUCEI.TSO.Practica2.UI;
 
 import java.awt.Component;
 import java.awt.event.MouseAdapter;
@@ -10,7 +10,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableModel;
 
-import org.CUCEI.TSO.Practica1.Model.SOProcess;
+import org.CUCEI.TSO.Practica2.Model.SOProcess;
 
 public class MainFrame {
 

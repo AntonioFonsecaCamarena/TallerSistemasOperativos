@@ -1,18 +1,18 @@
-package org.CUCEI.TSO.Practica1;
+package org.CUCEI.TSO.Practica3;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.CUCEI.TSO.Practica1.Model.CPU;
-import org.CUCEI.TSO.Practica1.Model.SOProcess;
-import org.CUCEI.TSO.Practica1.UI.MainFrame;
+import org.CUCEI.TSO.Practica3.Model.CPU;
+import org.CUCEI.TSO.Practica3.Model.SOProcess;
+import org.CUCEI.TSO.Practica3.UI.MainFrame;
 
-public class Practica1 {
+public class Practica3 {
 
 	public static void main(String[] args) {
-		System.out.println("Inicializando Practica 1");
+		System.out.println("Inicializando Practica 3");
 		System.out.println("Jose Antonio Fonseca Camarena");
 		System.out.println("Universidad de Guadalajara - CUCEI");
 		System.out.println("Taller de Sistemas Operativos");
